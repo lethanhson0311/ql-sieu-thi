@@ -1,0 +1,15 @@
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.csprojResolveAssemblyReference.cache
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.frmDangNhap.resources
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.frmThuKho.resources
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.Properties.Resources.resources
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.csproj.GenerateResource.Cache
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\bin\Debug\QL_SIEUTHI.exe
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\bin\Debug\QL_SIEUTHI.pdb
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.exe
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.pdb
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.frmThuNgan.resources
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.frmQuanLy.resources
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.frmDangKy.resources
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.frmDangKyKHTT.resources
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.frmDoiThongTinTaiKhoan.resources
+C:\Users\thanhson0311\Desktop\PTUDCSDL1\Đồ án\QL_SIEUTHI\QL_SIEUTHI\obj\Debug\QL_SIEUTHI.frmThanhToan.resources
