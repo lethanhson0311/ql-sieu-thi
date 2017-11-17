@@ -24,9 +24,5 @@ namespace QL_SIEUTHI
             frmDangKy frm = new frmDangKy();
             frm.ShowDialog();
         }
-        
-
-
-
     }
 }
