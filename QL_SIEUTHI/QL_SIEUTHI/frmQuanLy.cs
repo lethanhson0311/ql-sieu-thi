@@ -16,7 +16,7 @@ namespace QL_SIEUTHI
         public frmQuanLy()
         {
             InitializeComponent();
-            this.MaximizeBox = false;
+            this.MaximizeBox = false; 
         }
 
         private void btnThemNV_Click(object sender, EventArgs e)
