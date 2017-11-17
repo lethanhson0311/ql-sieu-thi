@@ -39,13 +39,5 @@ namespace QL_SIEUTHI
             frmDangKyKHTT f = new frmDangKyKHTT();
             f.ShowDialog();
         }
-
- 
-
-
-
-
-
-
     }
 }
