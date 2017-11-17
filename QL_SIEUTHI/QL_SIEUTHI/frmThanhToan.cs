@@ -13,7 +13,7 @@ namespace QL_SIEUTHI
     {
         public frmThanhToan()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
     }
 }
