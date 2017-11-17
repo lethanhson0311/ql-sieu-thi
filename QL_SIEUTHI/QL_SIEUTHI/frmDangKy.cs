@@ -20,7 +20,5 @@ namespace QL_SIEUTHI
         {
             this.Close();
         }
-
-
     }
 }
