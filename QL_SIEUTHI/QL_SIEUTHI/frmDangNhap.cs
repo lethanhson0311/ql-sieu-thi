@@ -103,7 +103,5 @@ namespace QL_SIEUTHI
             }
          }
         #endregion
-      
-
     }
 }
