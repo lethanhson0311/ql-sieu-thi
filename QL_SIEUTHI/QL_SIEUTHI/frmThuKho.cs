@@ -16,7 +16,5 @@ namespace QL_SIEUTHI
             InitializeComponent();
             this.MaximizeBox = false;
         }
-
-
     }
 }
